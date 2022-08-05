@@ -22,7 +22,7 @@ Language <img width="25" src="https://raw.githubusercontent.com/massimobonanni/m
 </a>
 </p> -->
 
-<!-- <p>
+<p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/video.svg" style="vertical-align:middle"> 
-<a href="https://youtu.be/58KMCzDtTsY?t=27025" target="_blank">On-line video</a>
-</p>  -->
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/MarcoDalPino_50%20shades%20(or%20less)%20of%20THINGS!!!.pdf" target="_blank">Session Deck</a>
+</p> 
