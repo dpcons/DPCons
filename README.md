@@ -25,7 +25,7 @@ I like food, travel and networking with people.
 <a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220507-AzureGlobal-TO.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/05/2022 - Global Azure 2022 Torino - Da EDGE a Serverless: il viaggio di una telemetria!</a>
 </p>
 
-<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220506-AzureGlobal-WW.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>06/05/2022 - Global Azure 2022 (Global WorldWide) - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220506-AzureGlobal-WW.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>06/05/2022 - Global Azure 2022 (Global WorldWide) - 50 Shades (Or Less) Of THINGS!!!</a>
 </p>
 
 
