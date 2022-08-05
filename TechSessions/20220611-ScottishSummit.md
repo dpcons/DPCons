@@ -13,16 +13,16 @@ Language <img width="25" src="https://raw.githubusercontent.com/massimobonanni/m
 <br/>
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/eventwebsite.svg" style="vertical-align:middle"> 
-<a href="https://azureday.it/">Event web site</a>
+<a href="https://scottishsummit.com/">Event web site</a>
 </p>
 
-<p>
+<!-- <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/github.svg" style="vertical-align:middle"> 
 <a href="https://github.com/massimobonanni/ServerlessIoT" target="_blank">massimobonanni/ServerlessIoT
 </a>
-</p>
+</p> -->
 
-<p>
+<!-- <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/video.svg" style="vertical-align:middle"> 
 <a href="https://youtu.be/58KMCzDtTsY?t=27025" target="_blank">On-line video</a>
-</p> 
+</p>  -->
