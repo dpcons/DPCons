@@ -20,6 +20,20 @@ I like food, travel and networking with people.
 </p>
 
 
+### May
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220507-AzureGlobal-TO.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>07/05/2022 - Global Azure 2022 Torino - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+</p>
+
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220506-AzureGlobal-WW.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>06/05/2022 - Global Azure 2022 (Global WorldWide) - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+</p>
+
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220505-AzureGlobal-VR.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>05/05/2022 - Global Azure 2022 Verona - Da EDGE a Serverless: il viaggio di una telemetria!</a>
+</p>
+
+
 <!--
 **dpcons/DPCons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
