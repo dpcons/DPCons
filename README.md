@@ -11,7 +11,7 @@ I like food, travel and networking with people.
 ### 2022
 ### June
 <p>
-<a href="https://github.com/massimobonanni/massimobonanni/blob/master/technicalsessions/20220616.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>24/06/2022 - Azure Day 2022 - Le peripezie di una telemetria dal device al backend Serverless</a>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220624-AzureDay.md"> <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/technicalsessions.svg" style="vertical-align:middle"/>24/06/2022 - Azure Day 2022 - Le peripezie di una telemetria dal device al backend Serverless</a>
 </p>
 
 
