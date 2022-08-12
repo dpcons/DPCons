@@ -15,12 +15,6 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 <a href="https://scottishsummit.com/">🌐 Event web site</a>
 </p>
 
-<!-- <p>
-<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/github.svg" style="vertical-align:middle"> 
-<a href="https://github.com/massimobonanni/ServerlessIoT" target="_blank">massimobonanni/ServerlessIoT
-</a>
-</p> -->
-
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/video.svg" style="vertical-align:middle"> 
 <a href="https://github.com/dpcons/DPCons/blob/main/Decks/MarcoDalPino_50%20shades%20(or%20less)%20of%20THINGS!!!.pdf" target="_blank">Session Deck</a>
