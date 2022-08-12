@@ -12,8 +12,7 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <br/>
 <p>
-<img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/eventwebsite.svg" style="vertical-align:middle"> 
-<a href="https://scottishsummit.com/">Event web site</a>
+<a href="https://scottishsummit.com/">🌐 Event web site</a>
 </p>
 
 <!-- <p>
