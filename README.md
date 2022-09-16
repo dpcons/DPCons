@@ -9,6 +9,19 @@ I like food, travel and networking with people.
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2022
+### September
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220917-AIIoTSummit-1.md"> 🗣️ 17/09/2022 - AI and IoT Bulgaria Summit - Design and architect your Secure IoT system and infrastructure
+</a>
+
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220917-AIIoTSummit-2.md"> 🗣️ 17/09/2022 - AI and IoT Bulgaria Summit - From RTOS to Serverless: the journey of a telemetry!
+</a>
+
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220924/1nn0vaSaturday.md"> 🗣️ 24/09/2022 - 1nn0va Saturday Pordenone 2022 - Progetta e realizza il tuo sistema ed infrastruttura IoT Sicuro
+</a>
+</p>
+
+
 ### June
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220624-AzureDay.md"> 🗣️ 24/06/2022 - Azure Day 2022 - Le peripezie di una telemetria dal device al backend Serverless
