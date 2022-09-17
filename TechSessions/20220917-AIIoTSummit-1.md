@@ -1,7 +1,8 @@
-# Le peripezie di una telemetria dal device al backend Serverless
-## 24/06/2022 - Azure Day 2022
+# Design and architect your Secure IoT system and infrastructure
+## 17/09/2022 - AI and IoT Bulgaria Summit 2022
 ### Abstract
-Tutte le mattine, un device si sveglia sapendo che dovrà inviare le proprie telemetrie al cloud e sperando che queste possano concludere il loro periglioso viaggio tra connessioni protette e connettività incerta per giungere, infine, nella vostra soluzione di analisi. In questa sessione rivivremo questo viaggio avventuroso partendo dal device, passando per IoTHub e arrivando, finalmente, nella soluzione Serverless realizzata con Azure Functions.
+With the increasing need for IoT systems on the market, and the growing list of features and data that those systems need to manage, security is becoming a central point that we need to put at center of design phase.
+Let's see together the focal point we have to keep in mind to design our Secure System !
 
 <br/>
 Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagItaly.svg" style="vertical-align:middle">

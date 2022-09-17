@@ -1,7 +1,7 @@
-# Le peripezie di una telemetria dal device al backend Serverless
-## 24/06/2022 - Azure Day 2022
+# From RTOS to Serverless: the journey of a telemetry!
+## 17/09/2022 - AI and IoT Bulgaria Summit 2022
 ### Abstract
-Tutte le mattine, un device si sveglia sapendo che dovrà inviare le proprie telemetrie al cloud e sperando che queste possano concludere il loro periglioso viaggio tra connessioni protette e connettività incerta per giungere, infine, nella vostra soluzione di analisi. In questa sessione rivivremo questo viaggio avventuroso partendo dal device, passando per IoTHub e arrivando, finalmente, nella soluzione Serverless realizzata con Azure Functions.
+The dangerous and adventurous journey of simple telemetry in search of the ultimate storage and perfect persistence. From an RTOS device up to the cloud, fighting between certificates, tokens, and access keys in search of the entrance to the IoT Hub to finally be able to find its place in the heaven of Serverless. Will our telemetry be able to find its desired Durable Entity and present itself in all its splendour to the management console of our platform? Come and find out in this end-to-end session: from the device in the field to the Serverless backend based on Durable Entities.
 
 <br/>
 Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagItaly.svg" style="vertical-align:middle">
