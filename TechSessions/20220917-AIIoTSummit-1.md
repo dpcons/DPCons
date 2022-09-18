@@ -5,7 +5,7 @@ With the increasing need for IoT systems on the market, and the growing list of 
 Let's see together the focal point we have to keep in mind to design our Secure System !
 
 <br/>
-Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagItaly.svg" style="vertical-align:middle">
+Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagUSA.svg" style="vertical-align:middle">
 
 <br/>
 
@@ -24,5 +24,5 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <p>
 <img width="25" src="https://raw.githubusercontent.com/massimobonanni/massimobonanni/master/images/video.svg" style="vertical-align:middle"> 
-<a href="https://youtu.be/58KMCzDtTsY?t=27025" target="_blank">On-line video</a>
+<a href="https://youtu.be/ZosO8wtf6Pw?t=3772" target="_blank">On-line video</a>
 </p> 
