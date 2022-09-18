@@ -11,7 +11,7 @@ I like food, travel and networking with people.
 ### 2022
 ### September
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220924-1nn0vaSaturday.md"> 🗣️ 24/09/2022 - 1nn0va Saturday Pordenone 2022 - Progetta e realizza il tuo sistema ed infrastruttura IoT Sicuro
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220924-1nn0vaSaturday.md"> 🗣️ 24/09/2022 - 1nn0va Saturday Pordenone 2022 - Progetta e realizza il tuo sistema ed infrastruttura IoT Sicuro
 </a>
 
 
