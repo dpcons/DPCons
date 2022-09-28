@@ -17,6 +17,6 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20220917-Design%20and%20architect%20your%20Secure%20IoT%20system%20and%20infrastructure.pdf" target="_blank">Session Deck</a>
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20220924-Progetta%20e%20realizza%20il%20tuo%20sistema%20ed%20infrastruttura%20IoT%20Sicuro.pdf" target="_blank">Session Deck</a>
 </a>
 </p>
