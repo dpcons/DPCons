@@ -11,6 +11,10 @@ I like food, travel and networking with people.
 ### 2022
 ### October
 <p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221019-WPC2022.md"> 🗣️ 19/10/2022 - WPC Italy 2022 - Costruire dispositivi AI enabled in scenari semi-connessi.
+</a>
+
+<p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221008-DataSaturday.md"> 🗣️ 08/10/2022 - Data Saturday Sofia 2022 - Build AI enabled devices in semi-connected scenarios.
 </a>
 
