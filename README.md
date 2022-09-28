@@ -9,6 +9,11 @@ I like food, travel and networking with people.
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2022
+### October
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221008-DataSaturday.md"> 🗣️ 08/10/2022 - Data Saturday Sofia 2022 - Build AI enabled devices in semi-connected scenarios.
+</a>
+
 ### September
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220924-1nn0vaSaturday.md"> 🗣️ 24/09/2022 - 1nn0va Saturday Pordenone 2022 - Progetta e realizza il tuo sistema ed infrastruttura IoT Sicuro
