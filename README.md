@@ -11,6 +11,10 @@ I like food, travel and networking with people.
 ### 2022
 ### October
 <p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 28/10/2022 - Global AI Developer Days 2022  - AI devices in the EDGE
+</a>
+
+<p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221019-WPC2022.md"> 🗣️ 19/10/2022 - WPC Italy 2022 - Costruire dispositivi AI enabled in scenari semi-connessi.
 </a>
 
@@ -22,7 +26,6 @@ I like food, travel and networking with people.
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220924-1nn0vaSaturday.md"> 🗣️ 24/09/2022 - 1nn0va Saturday Pordenone 2022 - Progetta e realizza il tuo sistema ed infrastruttura IoT Sicuro
 </a>
-
 
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220917-AIIoTSummit-2.md"> 🗣️ 17/09/2022 - AI and IoT Bulgaria Summit - From RTOS to Serverless: the journey of a telemetry!
 </a>
