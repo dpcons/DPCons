@@ -13,7 +13,7 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <br/>
 <p>
-<a href="https://www.wpc2022.it/">🌐 Event web site</a>
+<a href="https://globalai.community/developer-days/europe-global-ai-torino-5492/">🌐 Event web site</a>
 </p>
 
 <p>
