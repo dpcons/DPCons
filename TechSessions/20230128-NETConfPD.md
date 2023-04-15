@@ -1,8 +1,10 @@
-# Design and architect your Secure IoT system and infrastructure
+# Iot applications the easy way. .NET, THIS is the way!
 ## 28/01/2023 - NET Conf Pordenone 2023 
 ### Abstract
-With the increasing need for IoT systems on the market, and the growing list of features and data that those systems need to manage, security is becoming a focal point that we need to put at center of design phase.
-Let's see together the main point we have to keep in mind to design our IoT Secure System !
+Developing apps for IoT devices is not usually a simple task.
+The differences in hardware and ecosystem heavily influence the choice of the programming language or the reference framework, forcing most of the time to compromise choices or development systems dedicated to specific platforms.
+Thankfully there are some very cool solutions that support our beloved .NET framework.
+Let's see the main ones, analyzing some practical usage scenarios.
 
 <br/>
 Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagItaly.svg" style="vertical-align:middle">
@@ -12,10 +14,11 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <br/>
 <p>
-<a href="https://datasaturdays.com/2022-11-26-datasaturday0022/">🌐 Event web site</a>
+<a href="https://netconf2022.1nn0va.it/agenda.html">🌐 Event web site</a>
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20221126-Design%20and%20architect%20your%20Secure%20IoT%20system%20and%20infrastructure.pdf" target="_blank">Session Deck</a>
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20230128-Iot%20applications%20the%20easy%20way.%20.NET%20THIS%20is%20the%20way!.pdf" 
+target="_blank">Session Deck</a>
 </a>
 </p>

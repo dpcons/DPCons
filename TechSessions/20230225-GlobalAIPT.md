@@ -1,8 +1,8 @@
-# Design and architect your Secure IoT system and infrastructure
+# Build AI enabled devices in semi-connected scenarios.
 ## 25/02/2023 - Global AI Lisbon 2023 
 ### Abstract
-With the increasing need for IoT systems on the market, and the growing list of features and data that those systems need to manage, security is becoming a focal point that we need to put at center of design phase.
-Let's see together the main point we have to keep in mind to design our IoT Secure System !
+Using AI in EDGE devices is becoming increasingly important in major markets and industrial sectors. The exploitation of neural networks and inference algorithms in disconnected or semi-disconnected scenarios allows to implement solutions for object recognition, recognition or generation of text or spoken language, personal assistants, industrial control systems, surveillance systems.
+Let's find out how to do it using Cognitive Services and IoT tools.
 
 
 <br/>
@@ -12,10 +12,10 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <br/>
 <p>
-<a href="https://datasaturdays.com/2022-11-26-datasaturday0022/">🌐 Event web site</a>
+<a href="https://globalai.community/bootcamp-2023/europe-lisboa-5436/">🌐 Event web site</a>
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20221126-Design%20and%20architect%20your%20Secure%20IoT%20system%20and%20infrastructure.pdf" target="_blank">Session Deck</a>
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20230225-Build%20AI%20enabled%20devices%20in%20semi-connected%20scenarios.pdf" target="_blank">Session Deck</a>
 </a>
 </p>

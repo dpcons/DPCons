@@ -16,7 +16,7 @@ I like food, travel and networking with people.
 
 ### January
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPF.md"> 🗣️ 28/02/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPD.md"> 🗣️ 28/02/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
 </a>
 
 ### 2022
