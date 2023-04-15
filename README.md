@@ -2,8 +2,9 @@
 
 I'm a Microsoft Consultant helping our customers in modernize their applications moving to the cloud.
 I'm a tech enthusiast with passion for IoT, AI and Development. I'm a community addicted person and I like to help and participate in Community events as speaker, mentor or organizer.
-I'm speking at several conferences around the world.
+I'm speaking at several conferences around the world.
 I like food, travel and networking with people.
+I'm also a gospel singer and choir director, but this is another history... ;) 
 ----
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
