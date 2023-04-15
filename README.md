@@ -9,6 +9,11 @@ I like food, travel and networking with people.
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2023
+### August
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230805-ScottishSummit.md"> 🗣️ 05/08/2023 - From RTOS to Serverless: the journey of a telemetry!
+</a>
+
 ### May
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230225-GlobalAIPT.md"> 🗣️ 13/05/2023 - Azure Services: Per spingersi coraggiosamente dove nessun IoT e' mai giunto prima
