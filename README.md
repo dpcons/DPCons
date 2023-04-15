@@ -8,6 +8,17 @@ I like food, travel and networking with people.
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
+### 2023
+### February
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230225-GlobalAIPT.md"> 🗣️ 25/02/2023 - Global AI Lisbon - Build AI enabled devices in semi-connected scenarios
+</a>
+
+### January
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPF.md"> 🗣️ 28/02/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
+</a>
+
 ### 2022
 ### November
 <p>
