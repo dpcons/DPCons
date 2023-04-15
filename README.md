@@ -1,7 +1,7 @@
 ## ![image](https://user-images.githubusercontent.com/1767160/178777448-d5dee178-d461-4746-bf16-b1e85a2ed8b0.png) About Me ##
 
 I'm a Microsoft Consultant helping our customers in modernize their applications moving to the cloud.
-I'm a tech enthusiast with passion for IoT, AI and Development. I'm a community addicted person and I like to help and participate in Community events as speaker, mentor or organizer.
+I'm a tech enthusiast with passion for **IoT**, **AI** and **Development**. I'm a community addicted person and I like to help and participate in Community events as speaker, mentor or organizer.
 I'm speaking at several conferences around the world.
 I like food, travel and networking with people.
 I'm also a gospel singer and choir director, but this is another history... ;) 
@@ -14,31 +14,37 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230805-ScottishSummit.md"> 🗣️ 05/08/2023 - From RTOS to Serverless: the journey of a telemetry!
 </a>
+</p>
 
 ### May
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230225-GlobalAIPT.md"> 🗣️ 13/05/2023 - Azure Services: Per spingersi coraggiosamente dove nessun IoT e' mai giunto prima
 </a>
+</p>
 
 ### February
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230225-GlobalAIPT.md"> 🗣️ 25/02/2023 - Global AI Lisbon - Build AI enabled devices in semi-connected scenarios
 </a>
+</p>
 
 ### January
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPD.md"> 🗣️ 28/02/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
 </a>
+</p>
 
 ### 2022
 ### November
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221126-DataSat22.md"> 🗣️ 26/11/2022 - DataSat Parma - Design and architect your Secure IoT system and infrastructure
 </a>
+</p>
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221118-AIDay.md"> 🗣️ 18/11/2022 - AIDay Rome - Build AI enabled devices in semi-connected scenarios
 </a>
+</p>
 
   ### October
 <p>
@@ -52,6 +58,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221008-DataSaturday.md"> 🗣️ 08/10/2022 - Data Saturday Sofia 2022 - Build AI enabled devices in semi-connected scenarios.
 </a>
+</p>
 
 ### September
 <p>
@@ -63,7 +70,6 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20220917-AIIoTSummit-1.md"> 🗣️ 17/09/2022 - AI and IoT Bulgaria Summit - Design and architect your Secure IoT system and infrastructure
 </a>
-
 </p>
 
 
