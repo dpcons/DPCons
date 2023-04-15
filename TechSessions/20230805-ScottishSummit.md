@@ -10,6 +10,11 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 ---
 
 <br/>
+Language <img  src="https://github.com/dpcons/DPCons/blob/main/Resources/Images/20230508-Bonanni_Dal_Pino_-_From_RTOS_to_Serverless_the_journey_of_a_telemetry_443875.jpeg" style="vertical-align:middle">
+<br/>
+
+
+<br/>
 <p>
 <a href="https://scottishsummit.com/#">🌐 Event web site</a>
 </p>
