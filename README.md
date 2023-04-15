@@ -11,11 +11,11 @@ I like food, travel and networking with people.
 ### 2022
 ### November
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 26/11/2022 - DataSat Parma - Design and architect your Secure IoT system and infrastructure
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221126-DataSat22.md"> 🗣️ 26/11/2022 - DataSat Parma - Design and architect your Secure IoT system and infrastructure
 </a>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 18/11/2022 - AIDay Rome - Build AI enabled devices in semi-connected scenarios
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221118-AIDay.md"> 🗣️ 18/11/2022 - AIDay Rome - Build AI enabled devices in semi-connected scenarios
 </a>
 
   ### October
