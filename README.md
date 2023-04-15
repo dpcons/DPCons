@@ -9,7 +9,16 @@ I like food, travel and networking with people.
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2022
-### October
+### November
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 26/11/2022 - DataSat Parma - Design and architect your Secure IoT system and infrastructure
+</a>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 18/11/2022 - AIDay Rome - Build AI enabled devices in semi-connected scenarios
+</a>
+
+  ### October
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20221028-GlobalAIDevDays22.md"> 🗣️ 28/10/2022 - Global AI Developer Days 2022  - AI devices in the EDGE
 </a>
