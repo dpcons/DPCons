@@ -18,7 +18,8 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ### May
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230225-GlobalAIPT.md"> 🗣️ 13/05/2023 - Azure Services: Per spingersi coraggiosamente dove nessun IoT e' mai giunto prima
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230513-GlobalAzureVR.md">
+ 🗣️ 13/05/2023 - Azure Services: Per spingersi coraggiosamente dove nessun IoT e' mai giunto prima
 </a>
 </p>
 
