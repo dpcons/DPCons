@@ -15,7 +15,7 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/MVPSummit23-Template.pptx" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20230513-Azure Services Per spingersi coraggiosamente dove nessun IoT e mai giunto prima.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>
