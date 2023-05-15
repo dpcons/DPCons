@@ -16,6 +16,14 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 </a>
 </p>
 
+### June
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230513-GlobalAzureVR.md">
+ 🗣️ 16/06/2023 - SQL Start! - Ancona
+ Cracking the Code: Selecting the Best Database for Your IoT Endeavors
+</a>
+</p>
+
 ### May
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230513-GlobalAzureVR.md">
