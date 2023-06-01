@@ -12,11 +12,19 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ### 2023
 ### August
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230805-ScottishSummit.md"> 🗣️ 05/08/2023 - From RTOS to Serverless: the journey of a telemetry!
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230805-ScottishSummit.md"> 
+🗣️ 05/08/2023 - From RTOS to Serverless: the journey of a telemetry!
 </a>
 </p>
 
 ### June
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230623-AzureDayRM.md">
+ 🗣️ 23/06/2023 - Azure DaySQL - Roma
+ Cracking the Code: Selecting the Best Database for Your IoT Endeavors
+</a>
+</p>
+
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230616-SQLStartAN.md">
  🗣️ 16/06/2023 - SQL Start! - Ancona
