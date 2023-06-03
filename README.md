@@ -20,14 +20,14 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ### June
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230623-AzureDayRM.md">
- 🗣️ 23/06/2023 - Azure DaySQL - Roma
+ 🗣️ 23/06/2023 - Azure Day - Roma: 
 Elaborazione di eventi in tempo reale con i Servizi di Azure, la risposta e' 42!
 </a>
 </p>
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230616-SQLStartAN.md">
- 🗣️ 16/06/2023 - SQL Start! - Ancona
+ 🗣️ 16/06/2023 - SQL Start! - Ancona: 
  Cracking the Code: Selecting the Best Database for Your IoT Endeavors
 </a>
 </p>
