@@ -21,7 +21,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230623-AzureDayRM.md">
  🗣️ 23/06/2023 - Azure DaySQL - Roma
- Cracking the Code: Selecting the Best Database for Your IoT Endeavors
+Elaborazione di eventi in tempo reale con i Servizi di Azure, la risposta e' 42!
 </a>
 </p>
 
