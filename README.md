@@ -26,6 +26,13 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 </p>
 
 <p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230620-XPUGBG-Build.md">
+ 🗣️ 20/06/2023 - XPUGBG Meetups - Seriate
+ Le novità di Build: Vediamo cosa c'è di utile e cosa meno
+</a>
+</p>
+
+<p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230616-SQLStartAN.md">
  🗣️ 16/06/2023 - SQL Start! - Ancona
  Cracking the Code: Selecting the Best Database for Your IoT Endeavors
