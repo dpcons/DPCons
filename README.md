@@ -10,10 +10,24 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2023
+### October
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231007-DataSatSofia.md"> 
+🗣️ 07/10/2023 - Data Saturday - Sofia
+Cracking the Code: Selecting the Best Database for Your IoT Endeavors
+</a>
+</p>
+
+### September
+<p>
+
+</p>
+
 ### August
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230805-ScottishSummit.md"> 
-🗣️ 05/08/2023 - From RTOS to Serverless: the journey of a telemetry!
+🗣️ 05/08/2023 - Scottish Summit 2023 - Manchester
+From RTOS to Serverless: the journey of a telemetry! 
 </a>
 </p>
 
