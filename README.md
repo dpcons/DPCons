@@ -12,7 +12,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ### 2023
 ### November
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231007-DataSatSofia.md"> 
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231101-DevConRO.md"> 
 🗣️ 01/11/2023 - DevCon Romania - Bucharest
 Keynote
 </a>
