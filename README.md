@@ -10,6 +10,14 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2023
+### November
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231007-DataSatSofia.md"> 
+🗣️ 01/11/2023 - DevCon Romania - Bucharest
+Keynote
+</a>
+</p>
+
 ### October
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231007-DataSatSofia.md"> 
