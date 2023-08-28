@@ -20,7 +20,10 @@ Cracking the Code: Selecting the Best Database for Your IoT Endeavors
 
 ### September
 <p>
-
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230916-AIIndustrialSummitSofia.md"> 
+🗣️ 16/09/2023 - AI Industrial Summit 2023 - Sofia
+Azure Services: To Boldly Go Where No IoT Has Gone Before 
+</a>
 </p>
 
 ### August
