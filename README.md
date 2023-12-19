@@ -10,7 +10,26 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2023
+### December
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231215-XMASDev.md"> 
+🗣️ 15/12/2023 - XMASDev - Rome
+</a>
+</p>
+
 ### November
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231128-30-WPC.md"> 
+🗣️ 28-30/11/2023 - WPC ITALY - Milan
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231124-AI-DayRM.md"> 
+🗣️ 01/11/2023 - AI Day - Rome
+</a>
+</p>
+
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231101-DevConRO.md"> 
 🗣️ 01/11/2023 - DevCon Romania - Bucharest
