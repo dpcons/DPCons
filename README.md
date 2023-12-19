@@ -26,7 +26,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231124-AI-DayRM.md"> 
-🗣️ 01/11/2023 - AI Day - Rome
+🗣️ 24/11/2023 - AI Day - Rome
 </a>
 </p>
 
