@@ -17,7 +17,7 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/MVPSummit23-Template.pptx" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20231007-Cracking the Code Selecting the Best Database for Your IoT Endeavors.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>

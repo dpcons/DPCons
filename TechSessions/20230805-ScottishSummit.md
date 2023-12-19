@@ -20,7 +20,7 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/MVPSummit23-Template.pptx" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20230805-From RTOS to Serverless the journey of a telemetry!.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>
