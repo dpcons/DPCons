@@ -9,6 +9,13 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
+### 2024
+### January
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPD.md"> 🗣️ 27/01/2024 - NETConf Pordenone - ???
+</a>
+</p>
+
 ### 2023
 ### December
 <p>
@@ -98,7 +105,7 @@ Elaborazione di eventi in tempo reale con i Servizi di Azure, la risposta e' 42!
 
 ### January
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPD.md"> 🗣️ 28/02/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20230128-NETConfPD.md"> 🗣️ 28/01/2023 - NETConf Pordenone - 20230128-Iot applications the easy way. .NET THIS is the way!
 </a>
 </p>
 
