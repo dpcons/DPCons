@@ -10,9 +10,16 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2024
+
+### February
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240224-DataSatPN.md"> 🗣️ 24/02/2024 - Data Saturday 2024 Pordenone - ???
+</a>
+</p>
+
 ### January
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPD.md"> 🗣️ 27/01/2024 - NETConf Pordenone - ???
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPN.md"> 🗣️ 27/01/2024 - NETConf Pordenone - ???
 </a>
 </p>
 
