@@ -12,10 +12,6 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ### 2024
 
 ### February
-<p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240224-DataSatPN.md"> 🗣️ 24/02/2024 - Data Saturday 2024 Pordenone - ???
-</a>
-</p>
 
 ### January
 <p>
