@@ -11,11 +11,16 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ### 2024
 
-### February
+### March
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240309-GAI-PPB24Lisboa.md"> 🗣️ 09/03/2024 - Global AI + Power Platform Bootcamps 2024 - Lisboa
+</a>
+</p>
+
 
 ### January
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPN.md"> 🗣️ 27/01/2024 - NETConf Pordenone - ???
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPN.md"> 🗣️ 27/01/2024 - NETConf Pordenone
 </a>
 </p>
 
