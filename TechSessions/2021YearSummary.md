@@ -9,38 +9,13 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
-### 2024
+### 2021
 
 ### March
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240309-GAI-PPB24Lisboa.md"> 🗣️ 09/03/2024 - Global AI + Power Platform Bootcamps 2024 - Lisboa
 </a>
 </p>
-
-
-### January
-<p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240127-NETConfPN.md"> 🗣️ 27/01/2024 - NETConf Pordenone
-</a>
-</p>
-
-### 2023
-
-<p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2023YearSummary.md"> 
-🗣️ 2023 Events
-</a>
-</p>
-
-
-### 2022
-
-<p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2022YearSummary.md"> 
-🗣️ 2022 Events
-</a>
-</p>
-
 
 
 <!--
