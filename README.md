@@ -17,6 +17,11 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 </a>
 </p>
 
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240301-SharpCoding24-Roma.md"> 🗣️ 01/03/2024 - SharpCoding  2024 - Roma
+</a>
+</p>
+
 
 ### January
 <p>
@@ -28,7 +33,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2023YearSummary.md"> 
-🗣️ 2023 Events
+🗣️ 2023 Events (13)
 </a>
 </p>
 
