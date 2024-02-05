@@ -13,7 +13,18 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ### March
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240309-GAI-PPB24Lisboa.md"> 🗣️ 09/03/2024 - Global AI + Power Platform Bootcamps 2024 - Lisboa
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210312-AIDay.md"> 🗣️ 12/03/2021 - The Cloud First
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210311-TheCLoudFirst.md"> 🗣️ 11/03/2021 - The Cloud First
+</a>
+</p>
+
+### February
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210227-ScottishSummit.md"> 🗣️ 27/02/2021 - Scottish Summit
 </a>
 </p>
 

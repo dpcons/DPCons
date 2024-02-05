@@ -42,7 +42,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2022YearSummary.md"> 
-🗣️ 2022 Events
+🗣️ 2022 Events (17)
 </a>
 </p>
 
@@ -51,7 +51,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2021YearSummary.md"> 
-🗣️ 2021 Events
+🗣️ 2021 Events ()
 </a>
 </p>
 
@@ -59,7 +59,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2020YearSummary.md"> 
-🗣️ 2020 Events
+🗣️ 2020 Events ()
 </a>
 </p>
 
@@ -67,7 +67,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2019YearSummary.md"> 
-🗣️ 2019 Events
+🗣️ 2019 Events ()
 </a>
 </p>
 
@@ -75,7 +75,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2018YearSummary.md"> 
-🗣️ 2018 Events
+🗣️ 2018 Events ()
 </a>
 </p>
 
@@ -91,7 +91,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2016YearSummary.md"> 
-🗣️ 2016 Events
+🗣️ 2016 Events ()
 </a>
 </p>
 
@@ -99,7 +99,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2015YearSummary.md"> 
-🗣️ 2015 Events
+🗣️ 2015 Events ()
 </a>
 </p>
 
@@ -107,7 +107,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2014YearSummary.md"> 
-🗣️ 2014 Events
+🗣️ 2014 Events ()
 </a>
 </p>
 
@@ -115,7 +115,7 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2013YearSummary.md"> 
-🗣️ 2013 Events
+🗣️ 2013 Events ()
 </a>
 </p>
 

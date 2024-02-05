@@ -58,10 +58,31 @@
 <a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220506-AzureGlobal-WW.md"> 🗣️ 06/05/2022 - Global Azure 2022 (Global WorldWide) - 50 Shades (Or Less) Of THINGS!!!</a>
 </p>
 
-
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220505-AzureGlobal-VR.md"> 🗣️ 05/05/2022 - Global Azure 2022 Verona - Da EDGE a Serverless: il viaggio di una telemetria!</a>
 </p>
+
+### April
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220419-MeetupTurchin.md"> 🗣️ 19/04/2022 - Meetup Turchin Cloud - Genova - Azure Percept</a>
+</p>
+
+### March
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220326-GlobalAIEspana.md"> 🗣️ 26/03/2022 - Global AI Espana - AI and IoT on the EDGE with Azure Percept</a>
+</p>
+
+### February
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220217-SparkMS.md"> 🗣️ 17/02/2022 - Spark - Microsoft  - 50 Shades (Or Less) Of THINGS!!!</a>
+</p>
+
+### January
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/Dev/TechSessions/20220115-GlobalAI-Lisbon.md"> 🗣️ 15/01/2022 - Global AI - Lisbon - </a>
+</p>
+
+
 
 
 <!--
