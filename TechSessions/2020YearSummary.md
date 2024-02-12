@@ -4,7 +4,7 @@
 ### December
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20231215-XMASDev.md"> 
-🗣️ 15/12/2023 - XMASDev - Rome
+🗣️ 15/12/2020 - XMASDev - Rome
 </a>
 </p>
 
