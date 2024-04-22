@@ -11,6 +11,18 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 
 ### 2024
 
+### April
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240420-GA-Pordenone.md"> 🗣️ 20/04/2024 - Global Azure - Pordenone
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240418-GA-Milano.md"> 🗣️ 18/04/2024 - Global Azure - Milano
+</a>
+</p>
+
+
 ### March
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240309-GAI-PPB24Lisboa.md"> 🗣️ 09/03/2024 - Global AI + Power Platform Bootcamps 2024 - Lisboa
