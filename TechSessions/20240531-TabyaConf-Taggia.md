@@ -22,7 +22,7 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20240531-Azure AI Services non solo GPT tra gli strumenti per le nostre applicazioni intelligenti!.pdf"  
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20240531-Svelare la Magia dell'IA Generativa: Creare la Tua Presentazione con l Aiuto dell IA.pdf"  
 target="_blank">Session Deck</a>
 </a>
 </p>
