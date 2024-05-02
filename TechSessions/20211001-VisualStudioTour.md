@@ -1,5 +1,5 @@
 # Visual Studio e' il tool giusto per gli sviluppatori IoT/Automation/Embedded?
-## 01/101/2021 - Visual Studio Tour 2021 (Online)
+## 01/10/2021 - Visual Studio Tour 2021 (Online)
 ### Abstract
 Visual Studio, in tutte le sue versioni e release viene utilizzato da milioni di sviluppatori in tutto il mondo. Molti di loro lo utilizzano per attivita' particolari come riprogrammare device, fare il debug di sensori o schede a microcontrollore, sviluppare immagini per sistemi operativi eccetera. Vediamo insieme se le ultime versioni sono ancora in grado di coprire questi scenari o necessitano una integrazione con altri tool
 

@@ -15,6 +15,11 @@
 </a>
 </p>
 
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210623-MasterMIBicocca.md"> 🗣️ 23/06/2021 - Marketing Master - MI Bicocca UNI - Azure Percept
+</a>
+</p>
+
 ### April
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210417-GlobalAzureWW.md"> 🗣️ 17/04/2021 - Global Azure WW
