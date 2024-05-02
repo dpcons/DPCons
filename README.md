@@ -74,7 +74,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2021YearSummary.md"> 
-🗣️ 2021 Events (Updating...)
+🗣️ 2021 Events (11)
 </a>
 </p>
 
@@ -82,7 +82,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2020YearSummary.md"> 
-🗣️ 2020 Events (Updating...)
+🗣️ 2020 Events (10)
 </a>
 </p>
 
@@ -90,7 +90,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2019YearSummary.md"> 
-🗣️ 2019 Events (Updating...)
+🗣️ 2019 Events (20)
 </a>
 </p>
 
@@ -98,7 +98,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2018YearSummary.md"> 
-🗣️ 2018 Events (Updating...)
+🗣️ 2018 Events (22)
 </a>
 </p>
 
@@ -106,7 +106,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2017YearSummary.md"> 
-🗣️ 2017 Events (Updating...)
+🗣️ 2017 Events (20)
 </a>
 </p>
 
@@ -114,7 +114,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2016YearSummary.md"> 
-🗣️ 2016 Events (Updating...)
+🗣️ 2016 Events (24)
 </a>
 </p>
 
@@ -122,7 +122,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2015YearSummary.md"> 
-🗣️ 2015 Events (Updating...)
+🗣️ 2015 Events (24)
 </a>
 </p>
 
@@ -130,7 +130,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2014YearSummary.md"> 
-🗣️ 2014 Events (Updating...)
+🗣️ 2014 Events (14)
 </a>
 </p>
 
@@ -138,7 +138,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/2013YearSummary.md"> 
-🗣️ 2013 Events (Updating...)
+🗣️ 2013 Events (13)
 </a>
 </p>
 
