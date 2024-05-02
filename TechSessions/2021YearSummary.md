@@ -33,7 +33,7 @@
 
 ### March
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210312-AIDay.md"> 🗣️ 12/03/2021 - The Cloud First
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210312-AIDay.md"> 🗣️ 12/03/2021 - AI Day - Rome
 </a>
 </p>
 
