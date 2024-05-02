@@ -2,6 +2,12 @@
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2021
+### October
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20210626-BulgariaAI&IoTSummit.md"> 🗣️ 01/10/2021 - Visual Studio Tour - Italy - Visual Studio e il tool giusto per gli sviluppatori IoT
+</a>
+</p>
+
 
 ### June
 <p>
