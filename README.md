@@ -10,6 +10,17 @@ I'm also a gospel singer and choir director, but this is another history... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2024
+### May
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240531-TabyaConf-Taggia.md"> 🗣️ 31/05/2024 - Tabya Conf - Taggia
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240510-DevOPSConf-Roma.md"> 🗣️ 10/05/2024 - DevOPS Conf - Roma
+</a>
+</p>
+
 
 ### April
 <p>
