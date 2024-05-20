@@ -21,7 +21,7 @@ Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20240510-Wiki Wiki Bau Bau! La documentazione dove e?.pdf"  
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20240510-Wiki Wiki Bau Bau! La documentazione dov-e.pdf"  
 target="_blank">Session Deck</a>
 </a>
 </p>
