@@ -10,6 +10,12 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2024
+### September
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240914-AI-Industrial-Summit-Sofia.md"> 🗣️ 14/09/2024 - AI Industrial Summit Bulgaria - Sofia
+</a>
+</p>
+
 ### June
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240621-AzureDay-Roma.md"> 🗣️ 21/06/2024 - Azure Day - Roma
