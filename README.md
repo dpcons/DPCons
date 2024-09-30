@@ -12,6 +12,11 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ### 2024
 ### September
 <p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240928-1nn0vaSaturday-Pordenone.md"> 🗣️ 28/09/2024 - 1nn0va Saturday - Pordenone
+</a>
+</p>
+
+<p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240914-AI-Industrial-Summit-Sofia.md"> 🗣️ 14/09/2024 - AI Industrial Summit Bulgaria - Sofia
 </a>
 </p>
