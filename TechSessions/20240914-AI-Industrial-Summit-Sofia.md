@@ -19,7 +19,7 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/TEMP.pdf" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20240914-Azure IoT Services Episode IV A new Hope.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>
