@@ -10,6 +10,17 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2024
+### October
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20241018-19-ScottishSummit-Aberdeen.md"> 🗣️ 18-19/10/2024 - Scottish Summit - Aberdeen
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20241005-DataSaturday-Sofia.md"> 🗣️ 05/10/2024 - Data Saturday - Sofia
+</a>
+</p>
+
 ### September
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20240928-1nn0vaSaturday-Pordenone.md"> 🗣️ 28/09/2024 - 1nn0va Saturday - Pordenone
