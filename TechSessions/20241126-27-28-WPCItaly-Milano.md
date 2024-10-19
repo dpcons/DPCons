@@ -1,0 +1,24 @@
+# Azure IoT Operations: il "nuovo" modo di fare IoT secondo Microsoft
+## 26-27-28/11/2024 - WPC Italia 2024 - Milano 
+### Abstract
+Dopo gli annunci ed i rilasci di Microsoft Ignite, la nuova suite di servizi dedicati al mondo IoT ha raggiunto la maturita': Azure IoT Operations.
+Esaminiamo in dettaglio quali sono i nuovi paradigmi che guideranno il supporto alle applicazioni IoT con una suite di servizi che coprono tutti gli scenati dal Cloud all'Hybrid che all'onPrem, partendo dal Data Processor, passando per IoT MQ e OPC UA Broker.
+
+
+
+<br/>
+Language <img width="25" src="https://raw.githubusercontent.com/dpcons/DPCons/Dev/Resources/FlagItaly.svg" style="vertical-align:middle">
+<br/>
+
+---
+
+<br/>
+<p>
+<a href="https://www.wpc.education/sessioni">🌐 Event web site</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20241128-Azure IoT Operations il nuovo modo di fare IoT secondo Microsoft.pdf"  
+target="_blank">Session Deck</a>
+</a>
+</p>
