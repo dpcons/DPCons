@@ -8,6 +8,31 @@
 </a>
 </p>
 
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/.md"> 
+🗣️ 12/12/2020 - SQL Saturday  - Plovdiv
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/.md"> 
+🗣️ 02/12/2020 - DOTNet Conf by DNT - Italy
+</a>
+</p>
+
+### November
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/.md"> 
+🗣️ 28/11/2020 - IoT SAT - Pordenone
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/.md"> 
+🗣️ 10/11/2020 - MS Reactor - London
+</a>
+</p>
+
 
 
 
