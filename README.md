@@ -10,6 +10,12 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2024
+### December
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20241210-PromptEngineeringBG2024.md"> 🗣️ 10/12/2024 - Prompt Engineering Bulgaria 2024
+</a>
+</p>
+
 ### Novembre
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20241126-28-WPC2024-Milano.md"> 🗣️ 26-28/11/2024 - WPC Italy 2024 - Milano
