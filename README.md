@@ -1,6 +1,6 @@
 ## ![image](https://user-images.githubusercontent.com/1767160/178777448-d5dee178-d461-4746-bf16-b1e85a2ed8b0.png) About Me ##
 
-I'm a Microsoft Consultant helping our customers in modernize their applications moving to the cloud.
+I'm a Microsoft Senior Consultant helping our customers in modernize their applications moving to the cloud.
 I'm a tech enthusiast with passion for **IoT**, **AI** and **Development**. I'm a community addicted person and I like to help and participate in Community events as speaker, mentor or organizer.
 I'm speaking at several conferences around the world.
 I like food, travel and networking with people.
