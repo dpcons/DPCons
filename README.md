@@ -10,6 +10,23 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2025
+### March
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250322-GAIPP25-Lisbon.md"> 🗣️ 22/03/2025 - Global AI e Power Platform 2025 - Lisbon
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250320-GAIPP25-Coimbra.md"> 🗣️ 20/03/2025 - Global AI e Power Platform 2025 - Coimbra
+</a>
+</p>
+
+### February
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250221-AIDay25-Rome.md"> 🗣️ 21/02/2025 - AI Day Rome 2025
+</a>
+</p>
+
 ### January
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250125-1nn0vaSaturday25-Pordenone.md"> 🗣️ 25/01/2025 - 1nn0va NET Saturday 2025
