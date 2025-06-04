@@ -12,6 +12,11 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ### 2025
 ### May
 <p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250530-TabyaConf25.md"> 🗣️ 30/05/2025 - Tabya Conf 2025 - Taggia
+</a>
+</p>
+
+<p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250520-23-DevDaysEU25.md"> 🗣️ 20-23/05/2025 - DevDays Europe 2025 - Vilnius
 </a>
 </p>
