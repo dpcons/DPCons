@@ -10,6 +10,26 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2025
+### Oct
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251017-CollabDayNE25.md"> 🗣️ 17/10/2025 - CollabDays NE - Boston
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251017-CollabDayNE25.md"> 🗣️ 17/10/2025 - CollabDays NE - Boston
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251005-DataSatSofia.md"> 🗣️ 05/10/2025 - Data Saturday - Sofia
+</a>
+</p>
+
+### Sep
+
+
+
 ### May
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250530-TabyaConf25.md"> 🗣️ 30/05/2025 - Tabya Conf 2025 - Taggia
