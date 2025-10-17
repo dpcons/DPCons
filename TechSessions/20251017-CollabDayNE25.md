@@ -17,7 +17,7 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/Smart Edge Harnessing AI for Decentralized Intelligence.pdf" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/20251017-Smart Edge Harnessing AI for Decentralized Intelligence.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>

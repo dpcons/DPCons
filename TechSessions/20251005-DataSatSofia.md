@@ -1,7 +1,7 @@
-# Smart Edge: Harnessing AI for Decentralized Intelligence
+# Unleashing the Power of Prompts in Generative AI
 ## Oct 05th 2025 - Data Saturday - Sofia 
 ### Abstract
-In an era where data is generated at an unprecedented rate, the ability to process and analyze information at the source is crucial. This session will focus on the transformative potential of AI at the edge, where decentralized intelligence can lead to faster, more efficient decision-making. We'll cover the technical aspects of deploying AI models on edge devices, the challenges of limited resources, and strategies for overcoming these obstacles. Attendees will gain insights into the latest tools and frameworks that make Edge AI accessible and effective. Whether you're working in IoT, smart cities, or autonomous systems, this session will provide the knowledge and inspiration to take your AI projects to the next level.
+Explore the critical role of prompts in AI programming and their profound impact on the effectiveness of Generative AI models. Learn the techniques and best practices for creating prompts that guide AI models to produce accurate, relevant, and innovative results. Join us for an engaging and informative journey into the art of prompt engineering and discover how the right prompts can transform your AI projects.
 
 
 <br/>
@@ -13,11 +13,11 @@ Language <img width="45" src="https://raw.githubusercontent.com/dpcons/DPCons/De
 
 <br/>
 <p>
-<a href="https://ai-infrastructure-summit.eu/">🌐 Event web site</a>
+<a href="https://datasaturday.eu/DataSaturdaySofia/">🌐 Event web site</a>
 </p>
 
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/Decks/Smart Edge Harnessing AI for Decentralized Intelligence.pdf" 
+<a href="https://github.com/dpcons/DPCons/blob/main/Decks/.pdf" 
 target="_blank">Session Deck</a>
 </a>
 </p>

@@ -12,7 +12,7 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ### 2025
 ### Oct
 <p>
-<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251017-CollabDayNE25.md"> 🗣️ 17/10/2025 - CollabDays NE - Boston
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251024-AIDayReloaded.md"> 🗣️ 24/10/2025 - AI Day Reloaded - Rome
 </a>
 </p>
 
@@ -27,6 +27,16 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 </p>
 
 ### Sep
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250927-1nn0vAIPN25.md"> 🗣️ 27/09/2025 - 1nnovAI - Pordenone
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20250913-AIIndustrialSummit.md"> 🗣️ 13/09/2025 - AI Industrial Summit - Sofia
+</a>
+</p>
+
 
 
 
