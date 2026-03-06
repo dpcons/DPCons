@@ -11,8 +11,17 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 ### 2026
 ### Mar
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260307-DataSatTimi26.md"> 🗣️ 07/03/2026 - Data Sat Romania - Timisoara</a>
+</p>
+
 
 ### Feb
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260228-DataSatPN26.md"> 🗣️ 28/2/2026 - DataSat - Pordenone 26
+</a>
+</p>
+
 
 ### Jan
 <p>
