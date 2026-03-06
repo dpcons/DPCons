@@ -9,7 +9,36 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
+### 2026
+### Mar
+
+### Feb
+
+### Jan
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260131-DotNetSatPN26.md"> 🗣️ 31/1/2026 - DotNetSat - Pordenone
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260124-CollabDayBR26.md"> 🗣️ 23-24/1/2026 - CollabDays - Bremen
+</a>
+</p>
+
+
 ### 2025
+### Dec
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251202-04-WPC2025.md"> 🗣️ 02-04/12/2025 - WPC Italy 2025 - Milano
+</a>
+</p>
+
+### Nov
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251126-27-Sinejia25.md"> 🗣️ 26-27/11/2025 - Sinerjia 2025 - Beograd
+</a>
+</p>
+
 ### Oct
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251024-AIDayReloaded.md"> 🗣️ 24/10/2025 - AI Day Reloaded - Rome
