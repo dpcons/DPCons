@@ -10,6 +10,24 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
 ### 2026
+### Jun
+### May
+### Apr
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260418-GAPN26.md"> 🗣️ 18/4/2026 - GlobalAzure - Pordenone 26
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260417-GABA26.md"> 🗣️ 17/4/2026 - GlobalAzure - Bari 26
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260413-GAMI26.md"> 🗣️ 13/4/2026 - GlobalAzure - Milano 26
+</a>
+</p>
+
 ### Mar
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260307-DataSatTimi26.md"> 🗣️ 07/03/2026 - Data Sat Romania - Timisoara</a>
