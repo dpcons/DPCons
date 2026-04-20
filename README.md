@@ -12,6 +12,20 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 ### 2026
 ### Jun
 ### May
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/202600529-TabyaConf26.md"> 🗣️ 29/5/2026 - Tabyaconf 26- Taggia
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260516-TechForum26.md"> 🗣️ 16/5/2026 - L’Aquila Software Tech Forum - L'aquila
+</a>
+</p>
+
+<p>
+<a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260502-EOEPPS26.md"> 🗣️ 02/05/2026 - East of England Power Platform Summit - Norwich (UK)</a>
+</p>
+
 ### Apr
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20260418-GAPN26.md"> 🗣️ 18/4/2026 - GlobalAzure - Pordenone 26
