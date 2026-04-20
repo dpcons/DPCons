@@ -9,7 +9,17 @@ I'm also a gospel singer and choir director, but this is another story... ;)
 
 ## ![image](https://user-images.githubusercontent.com/1767160/178779745-c97c9f62-3301-4f48-8ade-ae3d302cf018.png) Technical Sessions
 
+### 2026
+### Feb
+
+### Jan
+
+
+
+
 ### 2025
+### Dec
+### Nov
 ### Oct
 <p>
 <a href="https://github.com/dpcons/DPCons/blob/main/TechSessions/20251024-AIDayReloaded.md"> 🗣️ 24/10/2025 - AI Day Reloaded - Rome
